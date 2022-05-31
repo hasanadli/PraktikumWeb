@@ -14,7 +14,7 @@ if (!isset($_SESSION['nomor_member'])) {
         <h3>
         <a href="Buku.php">Database Buku |</a>
         <a href="Member.php">Database Member |</a>
-        <a href="Peminjaman.php">Database Peminjaman</a>
+        <a href="Peminjaman.php">Database Peminjaman</a><br>
         <a href="Logout.php">Logout</a><br>
     </body>
 </html>
